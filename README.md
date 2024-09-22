@@ -19,7 +19,8 @@ where you unzip the program. You can select another map/drive if you wish.
 
 Please note:
 Music Clip Names must not contain spaces. If they do then they will not be
-recognized by the media players!
+recognized by the media players! When you are opening the solution in Visual
+Studio then you must move the XML-map to the bin/debug-map.
 
 Good luck,
 Reiniere.
