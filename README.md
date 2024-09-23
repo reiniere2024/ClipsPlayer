@@ -2,7 +2,7 @@ Hi All,
 
 The Music Clips Player is a little program that I have written to play
 my POP&Rock Video Clips. I have collected them for quite some time and
-some of the clips are real gems.
+some of the clips are real gems. (Environment: Visual Studio 2008)
 
 If you are also collecting Music clips or wanting to start with it then
 you can download this tool for free. I have included some very rare and
